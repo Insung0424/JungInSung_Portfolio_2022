@@ -4,8 +4,7 @@
 <br>
 ## 1. 모바일 쿠폰 중고 거래 사이트 (CouponBook)
 <h3>해당 프로젝트에서 저는 팀장을 맡았습니다.</h3><br>
-<img src="./Images/CouponBook/main2.PNG" alt="main2" />
-<img src="./Images/CouponBook/detail2.PNG" alt="detail2"/>
+<img src="./Images/CouponBook/image_des.PNG" alt="main2" />
 메인 페이지에서는 상품의 썸네일을 제공하고 상세페이지에서는 원본이미지를 제공하기 위해<br>
 <img src="./Images/CouponBook/addP.PNG" alt="addP"/>
 상품등록 시 상품권사진첨부에서 이미지 파일만 등록할 수 있도록 파일종류를 검증하도록 했으며<br>
