@@ -56,5 +56,4 @@ Chart.js 와 HighChart.js 를 사용해서 차트를 그렸고 <br>
 담당자가 직접 데이터스튜디오에서 최신화하도록 구현했습니다.<br><br>
 
 ## 3. 프로젝트에서 사용한 기술스택과 포트폴리오 통합이미지
-<img src="./Images/tech.PNG" /><br><br>
 <img src="./Images/JIS2022.png" />
