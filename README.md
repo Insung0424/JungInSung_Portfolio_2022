@@ -8,9 +8,8 @@
 메인 페이지에서는 상품의 썸네일을 제공하고 상세페이지에서는 원본이미지를 제공하기 위해<br>
 상품등록 시 상품권사진첨부에서 이미지 파일만 등록할 수 있도록 파일종류를 검증하도록 했으며<br>
 이미지 파일이 맞다면 자동으로 원본이미지 파일과 썸네일용이미지파일을 만들도록 구현했습니다.<br><br>
-<img src="./Images/CouponBook/addP.PNG" alt="addP"/>
-
-<img src="./Images/CouponBook/detail3.PNG" alt="detail3"/>
+<img src="./Images/CouponBook/ckeditor.png" alt="addP"/>
+상품권 설명과 댓글 작성란에는 CKeditor4를 이용하였습니다.<br>
 1대1 채팅 대신 상세페이지 하단에서 1대1 거래를 위한 댓글과 대댓글을 구현했습니다.<br>
 판매자는 댓글을 작성한 모든 이의 댓글을 확인 할 수 있고<br>
 구매자는 자신과 판매자만의 댓글을 볼 수 있습니다.<br><br>
